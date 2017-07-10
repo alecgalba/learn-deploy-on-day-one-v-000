@@ -4981,6 +4981,13 @@ a:visited {
   background-image: url("http://i.imgur.com/GqeWRSf.png");
 }
 
+#alec-alba-cover {
+  background-image: url("http://i.imgur.com/vKok9HV.jpg")
+}
+
+#alec-alba-card {
+  background-image: url("http://i.imgur.com/3fI80mn.jpg")
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
